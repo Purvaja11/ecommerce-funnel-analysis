@@ -1,2 +1,5 @@
 data/olist.db
 data/olist_geolocation_dataset.csv
+*.db
+__pycache__/
+.venv/
