@@ -7,7 +7,7 @@
 
 ---
 
-> 🚀 **Live Demo:** [Open Streamlit Dashboard](YOUR_STREAMLIT_URL_HERE)
+> 🚀 **Live Demo:** [Open Streamlit Dashboard](https://purvaja11-ecommerce-funnel-analysis.streamlit.app/)
 
 ---
 
